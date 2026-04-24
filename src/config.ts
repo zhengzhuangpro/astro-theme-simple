@@ -3,7 +3,7 @@ export const siteConfig = {
   description: 'A minimal Astro blog',
   site: 'https://example.com',
   ogImage: '/favicon.ico',
-  logo: '',
+  logo: 'https://img.zhengz.cc/PicGo/20260424103625278.png',
   author: 'Author Name',
   nav: [
     { label: '首页', href: '/' },
