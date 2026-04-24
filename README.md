@@ -2,6 +2,11 @@
 
 一个简洁的 Astro 博客主题模板，支持深色/浅色模式、全文搜索、代码高亮等功能。
 
+<p align="center">
+  <img src="./public/images/blog-demo-01.png" alt="light" width="45%" style="margin-right: 16px;" />
+  <img src="./public/images/blog-demo-02.png" alt="dark" width="45%" />
+</p>
+
 ## 功能特性
 
 - 深色/浅色/跟随系统三种主题模式
