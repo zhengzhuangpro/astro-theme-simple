@@ -2,7 +2,7 @@
 title: Astro 博客搭建指南
 description: 从零开始用 Astro 搭建一个简洁高效的个人博客
 category: tech
-date: 2026-04-20
+pubDate: 2026-04-20
 tags: [astro, 博客, 前端]
 ---
 

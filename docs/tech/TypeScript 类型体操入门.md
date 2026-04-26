@@ -2,7 +2,7 @@
 title: TypeScript 类型体操入门
 description: 掌握 TypeScript 高级类型，写出更安全的代码
 category: tech
-date: 2026-04-18
+pubDate: 2026-04-18
 tags: [typescript, 前端, 编程]
 ---
 

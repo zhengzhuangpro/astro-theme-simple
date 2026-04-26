@@ -1,14 +1,14 @@
 export const siteConfig = {
   title: 'My Blog',
   description: 'A minimal Astro blog',
-  site: 'https://example.com',
+  site: 'https://astro.zhengz.cc',
   ogImage: '/favicon.ico',
   logo: 'https://img.zhengz.cc/PicGo/20260424103625278.png',
   author: 'Author Name',
   nav: [
     { label: '首页', href: '/' },
     { label: '分类', href: '/categories' },
-    { label: 'GitHub', href: 'https://github.com', external: true },
+    { label: 'GitHub', href: 'https://github.com/zhengzhuangpro/astro-theme-simple', external: true },
   ],
   footer: '© {year} {title}. All rights reserved.',
 }

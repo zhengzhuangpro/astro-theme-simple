@@ -2,7 +2,7 @@
 title: Git 实用技巧
 description: 整理日常开发中常用的 Git 操作和技巧
 category: tech
-date: 2026-04-15
+pubDate: 2026-04-15
 tags: [git, 工具, 开发效率]
 ---
 
