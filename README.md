@@ -58,15 +58,6 @@ export const siteConfig = {
 }
 ```
 
-编辑 `astro.config.mjs`，将 `site` 改为你的域名：
-
-```ts
-export default defineConfig({
-  site: 'https://your-domain.com',
-  // ...
-})
-```
-
 ### 4. 添加文章
 
 在 `docs/` 目录下创建 Markdown 文件：
@@ -77,7 +68,7 @@ title: 我的第一篇文章
 description: 文章描述
 category: 技术
 tags: [Astro, 博客]
-date: 2025-01-01
+pubDate: 2025-01-01
 ---
 
 文章内容...
